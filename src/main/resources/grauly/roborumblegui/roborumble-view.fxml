@@ -18,7 +18,7 @@
         </VBox>
         <VBox>
             <Label text="System Log"/>
-            <TextArea id="systemLog"/>
+            <TextArea id="systemLog" editable="false"/>
         </VBox>
     </VBox>
 </HBox>
